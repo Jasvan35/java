@@ -1,5 +1,5 @@
 public class AllDataTypes {
-    public static void main(String args[]) {
+    public static void main(String args[]) {  //Main Method
         
       boolean Java = true; // Boolean Datatype Assign 
       System.out.println(Java);   // Output will be true
