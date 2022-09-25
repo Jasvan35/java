@@ -5,8 +5,8 @@ public class TypesOfVariables {
      public String IV  = "Instance Variable"; // Declared Instance Variable
  
    
-           //Main Method
-    public static void main(String[] args)
+           
+    public static void main(String[] args) //Main Method
     {
         int var = 10; // Declared a Local Variable
         System.out.println("Local Variable: " + var);  // Displaying O/P
