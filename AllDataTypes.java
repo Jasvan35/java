@@ -1,4 +1,9 @@
-public class AllDataTypes {
+// Name : S JASVAN SUNDAR               
+
+// Batch : 2576
+
+// Datatypes in JAVA
+public class AllDataTypes { 
     public static void main(String args[]) {  //Main Method
         
       boolean Java = true; // Boolean Datatype Assign 
