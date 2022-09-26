@@ -1,6 +1,11 @@
-// Practical 1 Student Details 
+// Name : S JASVAN SUNDAR               
+
+// Batch : 2576
+
+//Student Details
+
 import java.util.Scanner;
-class Student
+pulbic class Student
 {
 	public static void main(String[] args)
 	{
